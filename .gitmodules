@@ -1,0 +1,6 @@
+[submodule "Lane-Detection"]
+	path = Lane-Detection
+	url = https://github.com/ykpgrr/Lane-Detection.git
+[submodule "Lane-Detection-SDSoC-FPGA"]
+	path = Lane-Detection-SDSoC-FPGA
+	url = https://github.com/ykpgrr/Lane-Detection-SDSoC-FPGA.git

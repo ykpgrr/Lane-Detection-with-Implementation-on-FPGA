@@ -12,7 +12,7 @@ Sıddıka Berna ÖRS YALÇIN (Advisor) <br />
 ### LANE-DETECTION-ALGORITHMS-ON-FPGA (This Repository) -Full Project -
 1-) Lane Detection (https://github.com/ykpgrr/Lane-Detection.git)<br />
 2-) Lane Detection SDSoC FPGA (https://github.com/ykpgrr/LANE-DETECTION-ALGORITHMS-ON-FPGA.git) <br />
-3-) Lane-Detection VIVADO FPGA () <br />
+3-) Lane-Detection VIVADO FPGA (https://github.com/ykpgrr/Lane-Detection-VIVADO-FPGA.git) <br />
 
 ## TODO
 - Update Readme <br />

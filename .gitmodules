@@ -4,3 +4,6 @@
 [submodule "Lane-Detection-SDSoC-FPGA"]
 	path = Lane-Detection-SDSoC-FPGA
 	url = https://github.com/ykpgrr/Lane-Detection-SDSoC-FPGA.git
+[submodule "Lane-Detection-VIVADO-FPGA"]
+	path = Lane-Detection-VIVADO-FPGA
+	url = https://github.com/ykpgrr/Lane-Detection-VIVADO-FPGA

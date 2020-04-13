@@ -1,9 +1,9 @@
-[submodule "Lane-Detection"]
-	path = Lane-Detection
-	url = https://github.com/ykpgrr/Lane-Detection.git
-[submodule "Lane-Detection-SDSoC-FPGA"]
-	path = Lane-Detection-SDSoC-FPGA
-	url = https://github.com/ykpgrr/Lane-Detection-SDSoC-FPGA.git
-[submodule "Lane-Detection-VIVADO-FPGA"]
-	path = Lane-Detection-VIVADO-FPGA
-	url = https://github.com/ykpgrr/Lane-Detection-VIVADO-FPGA
+[submodule "Lane Detection on CPU Pure Software"]
+	path = Lane-Detection-on-CPU-Pure-Software
+	url = https://github.com/ykpgrr/Lane-Detection-on-CPU-Pure-Software
+[submodule "Lane Detection on FPGA-HW-SW part with SDSoC"]
+	path = Lane-Detection-on-FPGA-HW-SW-part-with-SDSoC
+	url = https://github.com/ykpgrr/Lane-Detection-on-FPGA-HW-SW-part-with-SDSoC.git
+[submodule "Lane Detection on FPGA-HW part with VIVADO"]
+	path = Lane-Detection-on-FPGA-HW-part-with-VIVADO
+	url = https://github.com/ykpgrr/Lane-Detection-on-FPGA-HW-part-with-VIVADO.git
